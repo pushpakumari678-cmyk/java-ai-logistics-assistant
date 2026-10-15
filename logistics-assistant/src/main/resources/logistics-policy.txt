@@ -1,0 +1,16 @@
+LOGISTICS DELIVERY POLICY
+
+1. WEATHER-RELATED DELAYS
+Severe thunderstorms, floods, and other dangerous weather conditions may delay shipment movement. Operations teams must monitor shipment tracking and relevant weather updates. Customers should be notified when a significant delay is identified. Staff must not promise an exact delivery time unless it has been confirmed.
+
+2. DELAYED SHIPMENTS
+When a shipment status is DELAYED, the operations team should investigate the reason for the delay, review the latest tracking events, and communicate the next update to the customer. If the reason is unknown, the team should escalate the case for investigation.
+
+3. OUT-FOR-DELIVERY SHIPMENTS
+When a shipment status is OUT_FOR_DELIVERY, the operations team should monitor the final delivery status. Delivery should only be confirmed after the tracking system records successful completion.
+
+4. CUSTOMER COMMUNICATION
+Customer communications must be accurate and based on verified shipment information. If the delivery time is uncertain, explain that the shipment is being monitored and provide an update when confirmed information becomes available.
+
+5. HIGH-RISK SHIPMENTS
+Shipments affected by severe weather or significant operational disruptions should receive additional monitoring. The operations team should assess the potential impact, inform the customer when appropriate, and escalate unresolved issues according to operational procedures.
